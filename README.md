@@ -30,15 +30,19 @@ The school board notified us that there was evidence of academic dishonesty spec
     - Updated analysis ![Updated](/Resources/thomas_summary_new.png) 
 - School Comparison:  Replacing the scores didn't impact the ranking of the schools within the district.  Thomas High School was the 2nd best performing school in the district before and after the change when being ranked by overall passing percentage.
 - Math and Reading scores by grade: Math and reading scores by grade was not impacted other than replacing the number in Thomas High School 9th grade with NaN.  All other schools and grade levels remained the same.
-- Scores by School Spending:
+- Scores by School Spending: Scores by spending did not move significantly enough to show in the summary outputs.
     - Original analysis ![Original](/Resources/spending_original.png)
     - Updated analysis ![Updated](/Resources/spending_new.png) 
-- Scores by School Size
+- Scores by School Size: Scores by school size did not move significantly enough to show in the summary outputs.
     - Original analysis ![Original](/Resources/size_original.png)
     - Updated analysis ![Updated](/Resources/size_new.png) 
-- Scores by School Type
+- Scores by School Type: Scores by school type did not move significantly enough to show in the summary outputs.
     - Original analysis ![Original](/Resources/type_original.png)
     - Updated analysis ![Updated](/Resources/type_new.png) 
 
 ## School District Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Overall there wasn't much change to the analysis provided originally.  Some of this is due to the rounding level provided in the tables.  For the summary scores by spending, school size, and school type, the impacts were not material enough to overcome rounding.  There were some changes, although they were minor.
+    1. The overall district analysis showed a decrease in all related metrics except average reading score.
+    2. The individual school summary data for Thomas HS showed the most impact.  At the school level the average math score decreased and the average reading score increased.  These changes were opposite and roughly the same size.
+    3. The individual school summary also showed that the passing percentages for reading, math, and overall, ended up decreasing but the decreases were less than 0.5% each
+    4. Although changes were made, the overall impact didn't change Thomas High School's ranking in the district.  The ranking was by percent passing overall.  Thomas HS remained in 2nd place in the district but they did move closer to the 3rd place spot.  They are now within 0.04% of losing their 2nd place ranking.
