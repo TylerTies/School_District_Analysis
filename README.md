@@ -42,7 +42,7 @@ The school board notified us that there was evidence of academic dishonesty spec
 
 ## School District Summary
 Overall there wasn't much change to the analysis provided originally.  Some of this is due to the rounding level provided in the tables.  For the summary scores by spending, school size, and school type, the impacts were not material enough to overcome rounding.  There were some changes, although they were minor.
-    1. The overall district analysis showed a decrease in all related metrics except average reading score.
-    2. The individual school summary data for Thomas HS showed the most impact.  At the school level the average math score decreased and the average reading score increased.  These changes were opposite and roughly the same size.
-    3. The individual school summary also showed that the passing percentages for reading, math, and overall, ended up decreasing but the decreases were less than 0.5% each
-    4. Although changes were made, the overall impact didn't change Thomas High School's ranking in the district.  The ranking was by percent passing overall.  Thomas HS remained in 2nd place in the district but they did move closer to the 3rd place spot.  They are now within 0.04% of losing their 2nd place ranking.
+1. The overall district analysis showed a decrease in all related metrics except average reading score.
+2. The individual school summary data for Thomas HS showed the most impact.  At the school level the average math score decreased and the average reading score increased.  These changes were opposite and roughly the same size.
+3. The individual school summary also showed that the passing percentages for reading, math, and overall, ended up decreasing but the decreases were less than 0.5% each
+4. Although changes were made, the overall impact didn't change Thomas High School's ranking in the district.  The ranking was by percent passing overall.  Thomas HS remained in 2nd place in the district but they did move closer to the 3rd place spot.  They are now within 0.04% of losing their 2nd place ranking.
