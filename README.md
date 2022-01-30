@@ -22,16 +22,23 @@ The school board notified us that there was evidence of academic dishonesty spec
 - Software: Python 3.7.11, Jupyter notebook 6.4.6
 
 ## School District Results
-- District Summary: The school district summary wasn't materially affected, but changes did occur as seen in the screenshots below.
+- District Summary: The school district summary wasn't materially affected, but changes did occur as seen in the screenshots below. All score related metrics did trend lower, except for Average Reading Score, across the district.
     - Original analysis ![Original](/Resources/district_summary_original.png)
     - Updated analysis ![Updated](/Resources/district_summary_new.png)
-- school summary
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- How does replacing the ninth-grade scores affect the following:
-    - Math and Reading scores by grade
-    - Scores by school spending
-    - Scores by school size
-    - Scores by school type
+- School Summary: At the individual school level the scores only change for Thomas High School.  The average math scores decreased slightly while the average reading scores increase by roughly the same margin.  The percentage passing scores for math, reading, and overall each decreased, but the decreases were minor at less than 0.5% for each.  Details are in the following screenshots.
+    - Original analysis ![Original](/Resources/thomas_summary_original.png)
+    - Updated analysis ![Updated](/Resources/thomas_summary_new.png) 
+- School Comparison:  Replacing the scores didn't impact the ranking of the schools within the district.  Thomas High School was the 2nd best performing school in the district before and after the change when being ranked by overall passing percentage.
+- Math and Reading scores by grade: Math and reading scores by grade was not impacted other than replacing the number in Thomas High School 9th grade with NaN.  All other schools and grade levels remained the same.
+- Scores by School Spending:
+    - Original analysis ![Original](/Resources/spending_original.png)
+    - Updated analysis ![Updated](/Resources/spending_new.png) 
+- Scores by School Size
+    - Original analysis ![Original](/Resources/size_original.png)
+    - Updated analysis ![Updated](/Resources/size_new.png) 
+- Scores by School Type
+    - Original analysis ![Original](/Resources/type_original.png)
+    - Updated analysis ![Updated](/Resources/type_new.png) 
 
 ## School District Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
